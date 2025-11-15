@@ -1,0 +1,113 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "jeevanvns@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:jeevanvns@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91-9140654947",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919140654947"
+      },
+      {
+        "type": "website",
+        "label": "Gurgaon, Haryana, India",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "#"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/jeevanvns/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Master of Computer Application - 2019-2022",
+        "description": "Swami Vivekanand Subharti University, Meerut"
+      },
+      {
+        "title": "Bachelor of Science (IT) - 2011-2014",
+        "description": "Microtek College of Management and Technology"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "icon": "/images/home/education-skill/java-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Kotlin",
+        "icon": "/images/home/education-skill/kotlin-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Swift",
+        "icon": "/images/home/education-skill/swift-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Flutter",
+        "icon": "/images/home/education-skill/flutter-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Dart",
+        "icon": "/images/home/education-skill/dart-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "MVVM",
+        "icon": "/images/home/education-skill/mvvm-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Firebase",
+        "icon": "/images/home/education-skill/firebase-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Jetpack",
+        "icon": "/images/home/education-skill/jetpack-icon.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/jeevanvns/",
+        "icon": "/images/icon/linkedin-icon.svg"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/jeevanvns",
+        "icon": "/images/icon/github-icon.svg"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "jeevanvns@gmail.com",
+        "link": "mailto:jeevanvns@gmail.com",
+        "icon": "/images/icon/email-icon.svg"
+      },
+      {
+        "type": "phone",
+        "label": "+91-9140654947",
+        "link": "tel:+919140654947",
+        "icon": "/images/icon/phone-icon.svg"
+      }
+    ]
+  }
+}

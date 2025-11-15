@@ -1,0 +1,52 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "FasTag, GPS, Fuel - Android App",
+      "client": "WheelsEye Technology",
+      "slug": "fastag-gps-fuel",
+      "description": "Android application for fleet management with Live Data, MVVM, Kotlin, Navigation, Firebase, Retrofit, Coroutine, Room DB, and Flutter integration.",
+      "link": "https://play.google.com/store/apps/details?id=com.wheelseyeoperator"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "Wheelseye Truck Booking - Android App",
+      "client": "WheelsEye Technology",
+      "slug": "wheelseye-truck-booking-android",
+      "description": "Truck booking platform built with Live Data, MVVM, Kotlin, Navigation, Firebase, Retrofit, Coroutine, Room DB, and Flutter.",
+      "link": "https://play.google.com/store/apps/details?id=com.wheelseye.consigner"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Wheelseye Truck Booking - iOS App",
+      "client": "WheelsEye Technology",
+      "slug": "wheelseye-truck-booking-ios",
+      "description": "iOS application for truck booking platform developed using Swift, Alamofire, and Kingfisher.",
+      "link": "https://apps.apple.com/in/app/wheelseye-truck-booking-app/id1572422031"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "CRPF Sambhav - Android App",
+      "client": "Previous Project",
+      "slug": "crpf-sambhav",
+      "description": "Android application built with Live Data, MVVM, Kotlin, Navigation, Firebase, and Retrofit.",
+      "link": "https://play.google.com/store/apps/details?id=com.sambhav"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Greenway Bill - Android App",
+      "client": "Previous Project",
+      "slug": "greenway-bill",
+      "description": "Billing application developed with Live Data, MVVM, Kotlin, Navigation, Firebase, and Retrofit.",
+      "link": "https://play.google.com/store/apps/details?id=com.apps.greenwaybills"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Trunkie - Android App",
+      "client": "Previous Project",
+      "slug": "trunkie",
+      "description": "Android application built with Live Data, MVVM, Kotlin, Navigation, Firebase, and Retrofit.",
+      "link": "https://play.google.com/store/apps/details?id=com.projectheen.trunkie"
+    }
+  ]
+}
