@@ -35,15 +35,6 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
-      
-      - name: Verify build output
-        run: |
-          echo "Checking build output..."
-          ls -la out/ | head -20
-          echo "Checking for index.html..."
-          test -f out/index.html && echo "✓ index.html exists" || echo "✗ index.html missing"
-          echo "Checking basePath in HTML..."
-          grep -q "/my-profile" out/index.html && echo "✓ basePath found in HTML" || echo "✗ basePath not found"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

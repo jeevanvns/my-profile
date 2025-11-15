@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
 
+// Use basePath for GitHub Pages deployment
+// In production builds, use /my-profile to match the repository name
 const basePath = process.env.NODE_ENV === "production" ? "/my-profile" : "";
 
 const nextConfig: NextConfig = {
