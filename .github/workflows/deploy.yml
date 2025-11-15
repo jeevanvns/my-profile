@@ -35,6 +35,9 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
+      
+      - name: List out directory
+        run: ls -la out/ | head -20
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
